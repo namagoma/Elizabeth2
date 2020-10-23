@@ -18,11 +18,9 @@ class Listener(tweepy.StreamListener):
             # else:
             default.reply(status.text, status.user.name, status.id,status.author.screen_name, status.retweeted)
         return True
-
     def on_error(self, status_code):
         print('error: ' + str(status_code))
         return True
-
     def on_timeout(self):
         print('Timeout...')
         return True
