@@ -1,9 +1,9 @@
 consumer_key_read = 'S4GNkUjpUGNFypRnFeyEUvRJF'
 consumer_secret_read = 'F43fshltmhlDULvMEqgcn7y50kUtyTXmUuhbbsRssIIBr7TE1W'
-access_token_read = '1160590857453465601-QDlJQJVkCO1VtTvB0rKqrxcUmj3Oid'
-access_secret_read = 'MpsWu6OFoYYBjEXxRLdjGekhKmyHSpIVnPfhcpObOhdE7'
+access_token_read = '1160590857453465601-ouvLYCVawkKhJp51emeHoUkRGfkT8V'
+access_secret_read = 'p7X9MW3bZgW1n026MCcrEEc2CaZUwBr2p2uYz7F44le1y'
 
 consumer_key_send = 'S4GNkUjpUGNFypRnFeyEUvRJF'
 consumer_secret_send = 'F43fshltmhlDULvMEqgcn7y50kUtyTXmUuhbbsRssIIBr7TE1W'
-access_token_send = '1160590857453465601-QDlJQJVkCO1VtTvB0rKqrxcUmj3Oid'
-access_secret_send = 'MpsWu6OFoYYBjEXxRLdjGekhKmyHSpIVnPfhcpObOhdE7'
+access_token_send = '1160590857453465601-ouvLYCVawkKhJp51emeHoUkRGfkT8V'
+access_secret_send = 'p7X9MW3bZgW1n026MCcrEEc2CaZUwBr2p2uYz7F44le1y'
