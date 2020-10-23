@@ -1,0 +1,6 @@
+MyAPI.py
+_pycache_
+.vscode
+?.py
+*.pyc
+git-proxy
